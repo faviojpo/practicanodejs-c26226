@@ -1,0 +1,12 @@
+{
+  "name": "calculadora-basica",
+  "version": "1.0.0",
+  "description": "Una calculadora sencilla por consola para aprender Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["calculadora", "node", "principiante"],
+  "author": "",
+  "license": "ISC"
+}
